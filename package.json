@@ -1,0 +1,22 @@
+{
+  "name": "@rashitamehta/newreactlibrary",
+  "version": "1.0.0",
+  "description": "Test package to put React compoenent library to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashita123/testUI.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Rashita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rashita123/testUI/issues"
+  },
+  "homepage": "https://github.com/Rashita123/testUI#readme"
+}
